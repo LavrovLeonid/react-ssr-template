@@ -1,0 +1,4 @@
+{
+  "watch": ["packages/server", "webpack", ".env"],
+  "ext": "ts, tsx"
+}
